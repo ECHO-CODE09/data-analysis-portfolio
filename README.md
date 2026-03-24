@@ -93,7 +93,7 @@ These projects cover basic problem-solving, data analysis, and real-world applic
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/python-data-projects.git
+git clone https://github.com/ECHO-CODE09/data-analysis-portfolio.git
 
 2. Navigate to the folder:
 
