@@ -19,8 +19,7 @@ These projects cover basic problem-solving, data analysis, and real-world applic
 │   ├── india_aqi_analysis/
 │   └── imdb_movie_analysis/
 │
-├── datasets/
-│   ├── *.csv (12 datasets)
+|
 │
 └── README.md
 
@@ -71,14 +70,6 @@ These projects cover basic problem-solving, data analysis, and real-world applic
 - Explored movie dataset
 - Found top-rated movies
 - Visualized ratings distribution
-
----
-
-📊 Datasets
-
-- 12 CSV files used for analysis
-- Stored in "datasets/" folder
-
 ---
 
 🛠️ Tech Stack
